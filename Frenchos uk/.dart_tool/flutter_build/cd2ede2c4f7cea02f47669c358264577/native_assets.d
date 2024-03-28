@@ -1,0 +1,1 @@
+ /Users/hpcl/Desktop/Office\ Projects/GitHub/Frenchos\ uk/.dart_tool/flutter_build/cd2ede2c4f7cea02f47669c358264577/native_assets.yaml: 

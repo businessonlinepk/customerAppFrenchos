@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hpcl/Desktop/Office Projects/GitHub/ukFrenchoseCustomer/Frenchos uk/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/hpcl/.gradle/caches/transforms-3/b3b7951a8f5aeb2d1970ca4ac7574973/transformed/core-1.10.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

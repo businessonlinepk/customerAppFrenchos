@@ -1,0 +1,242 @@
+{
+  "project_info": {
+    "project_number": "1037076257207",
+    "project_id": "uk-restaurant-staff",
+    "storage_bucket": "uk-restaurant-staff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037076257207:android:43dbfad2500316ea19b032",
+        "android_client_info": {
+          "package_name": "babakhanrestaurant.restaurantstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsIj9UYgdbRrk5dLiLCtgnvr4m99d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037076257207-a9g2ar0u6jnb5uc5m2frsq9ncmc31pos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037076257207:android:d9370ee5348e361e19b032",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsIj9UYgdbRrk5dLiLCtgnvr4m99d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037076257207-a9g2ar0u6jnb5uc5m2frsq9ncmc31pos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037076257207:android:e8faa7fe6e7da2b619b032",
+        "android_client_info": {
+          "package_name": "doorstepUK.restaurantstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037076257207-p92buvi0pvpri2b51ueb982sf4s55u84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doorstepUK.restaurantstaff",
+            "certificate_hash": "d000d5239f5f76c23b3e14cf51a0d0c20d49f545"
+          }
+        },
+        {
+          "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsIj9UYgdbRrk5dLiLCtgnvr4m99d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037076257207-a9g2ar0u6jnb5uc5m2frsq9ncmc31pos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037076257207:android:0891ee34712738a919b032",
+        "android_client_info": {
+          "package_name": "franchose.restaurantstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsIj9UYgdbRrk5dLiLCtgnvr4m99d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037076257207-a9g2ar0u6jnb5uc5m2frsq9ncmc31pos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037076257207:android:a6a3f807267f7c0619b032",
+        "android_client_info": {
+          "package_name": "ukadmin.restaurantstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsIj9UYgdbRrk5dLiLCtgnvr4m99d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037076257207-a9g2ar0u6jnb5uc5m2frsq9ncmc31pos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037076257207:android:32d991bb9833093719b032",
+        "android_client_info": {
+          "package_name": "ukcustomerrestaurant.restaurantstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037076257207-pd591q71llvvg1q7c9c5eamjibdr211t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ukcustomerrestaurant.restaurantstaff",
+            "certificate_hash": "d1abad82a7809c23a7a73ac89eb7c3beb8316124"
+          }
+        },
+        {
+          "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsIj9UYgdbRrk5dLiLCtgnvr4m99d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037076257207-7e5h53ojpad96dltepjldv43i9bmh6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037076257207-a9g2ar0u6jnb5uc5m2frsq9ncmc31pos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
